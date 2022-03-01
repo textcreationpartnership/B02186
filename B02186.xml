@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The service that is performed in the Kings Free Chappel of S. George in the Castle of Windsor, upon Obiit Sunday in the morning (that is the Sunday before every quarter-day) and at the offering up of the atchievements of the deceased Knights of the Garter. The service is the same that is appointed in the Book of Common Prayer, until you come to the Psalms for the day of the moneth: in stead of which you have these proper Psalms : Psalm XXI, CXLVI, CXLVII.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02186</idno>
+            <idno type="STC">Wing C4190CA</idno>
+            <idno type="STC">ESTC R175797</idno>
+            <idno type="EEBO-CITATION">52211753</idno>
+            <idno type="OCLC">ocm 52211753</idno>
+            <idno type="VID">175571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175571)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2740:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The service that is performed in the Kings Free Chappel of S. George in the Castle of Windsor, upon Obiit Sunday in the morning (that is the Sunday before every quarter-day) and at the offering up of the atchievements of the deceased Knights of the Garter. The service is the same that is appointed in the Book of Common Prayer, until you come to the Psalms for the day of the moneth: in stead of which you have these proper Psalms : Psalm XXI, CXLVI, CXLVII.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions --  17th century.</term>
+               <term>Prayers for the dead --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="service">
+            <pb n="1" facs="tcp:175571:1" rendition="simple:additions"/>
+            <head>THE SERVICE That is Performed in the KINGS <hi>Free Chappel</hi> of S. <hi>GEORGE</hi> in the Caſtle of <hi>WINDSOR, <g ref="char:V">Ʋ</g>PON</hi> Obiit Sunday In the Morning: (That is the Sunday before every Quarter-day) And at the Offering up of the Atchievements of the Deceaſed KNIGHTS of the <hi>GARTER.</hi>
+            </head>
+            <div type="part">
+               <head>The SERVICE is the ſame that is appointed in the Book of <hi>Common Prayer,</hi> until you come to the <hi>Pſalms</hi> for the Day of the Moneth: In ſtead of which you have theſe proper Pſalms, PSALM <hi>XXI. CXLVI. CXLVII.</hi>
+               </head>
+               <head type="sub">PSALM 21.</head>
+               <p n="1">
+                  <hi>1.</hi>
+                  <seg rend="decorInit">T</seg>HE King ſhall rejoyce in thy ſtrength, O Lord: exceeding glad ſhall he be of thy ſalva<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="2">
+                  <hi>2.</hi> Thou haſt given him his hearts deſire: and haſt not denied him the requeſt of his lips.</p>
+               <p n="3">
+                  <hi>3.</hi> For thou ſhalt prevent Him with the Bleſſings of goodneſſe: and ſhalt ſet a crown of pure gold upon his head.</p>
+               <p n="4">
+                  <hi>4.</hi> He asked life of thee, and thou gaveſt him a long life: even for ever, and ever.</p>
+               <p n="5">
+                  <hi>5.</hi> His honour is great in thy ſalvation: glory, and great worſhip ſhalt thou lay upon him.</p>
+               <pb n="2" facs="tcp:175571:2"/>
+               <p n="6">
+                  <hi>6.</hi> For thou ſhalt give him everlaſting felicity: and make him glad with the joy of thy countenance.</p>
+               <p n="7">
+                  <hi>7.</hi> And why? becauſe the King putteth his truſt in the Lord: and in the mercy of the moſt Higheſt he ſhall not miſcarry.</p>
+               <p n="8">
+                  <hi>8.</hi> All thine enemies ſhall feel thy hand: thy right hand ſhall find out them that hate thee.</p>
+               <p n="9">
+                  <hi>9.</hi> Thou ſhalt make them like a fiery oven in time of thy wrath: the Lord ſhall deſtroy them in his diſpleaſure, and the fire ſhall conſume them.</p>
+               <p n="10">
+                  <hi>10.</hi> Their fruit ſhalt thou root out of the Earth: and their ſeed from among the Children of men.</p>
+               <p n="11">
+                  <hi>11.</hi> For they intended miſchief againſt thee: and imagined ſuch a device as they are not able to perform.</p>
+               <p n="12">
+                  <hi>12.</hi> Therefore ſhalt thou put them to flight: and the ſtrings of thy bow ſhalt thou make ready againſt the face of them.</p>
+               <p n="13">
+                  <hi>13.</hi> Be thou exalted, Lord, in thine own ſtrength: ſo will we ſing, and praiſe thy power.</p>
+            </div>
+            <div type="part">
+               <head>PSALM 146.</head>
+               <p n="1">
+                  <hi>1.</hi>
+                  <seg rend="decorInit">P</seg>Raiſe the Lord, O my Soul, while I live will I praiſe the Lord: yea, as long as I have any being, I will ſing praiſes unto my God.</p>
+               <p n="2">
+                  <hi>2.</hi> O put not your truſt in Princes, nor in any child of man: for there is no help in them.</p>
+               <p n="3">
+                  <hi>3.</hi> For when the breath of man goeth forth, he ſhall turn again to his earth: and then all his thoughts periſh.</p>
+               <p n="4">
+                  <hi>4.</hi> Bleſſed is he that hath the God of Iacob for his help: and whoſe hope is in the Lord his God.</p>
+               <p n="5">
+                  <hi>5.</hi> Who made heaven and earth, the ſea and all that therein is: who keepeth his promiſe for ever.</p>
+               <p n="6">
+                  <hi>6.</hi> Who helpeth them to right that ſuffer wrong: who feedeth the hungry.</p>
+               <p n="7">
+                  <hi>7.</hi> The Lord looſeth men out of priſon: the Lord giveth ſight to the blind.</p>
+               <p n="8">
+                  <hi>8.</hi> The Lord helpeth them that are fallen: the Lord careth for the righteous.</p>
+               <p n="9">
+                  <hi>9.</hi> The Lord careth for the ſtrangers, he defendeth the father<g ref="char:EOLhyphen"/>leſs and widow: as for the way of the ungodly, he turneth it upſide down.</p>
+               <p n="10">
+                  <hi>10.</hi> The Lord thy God, O Sion, ſhall be King for evermore: and throughout all generations.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:175571:2"/>
+               <head>PSALM 147.</head>
+               <p n="1">
+                  <hi>1.</hi>
+                  <seg rend="decorInit">O</seg> Praiſe the Lord, for it is a good thing to ſing praiſes unto our God: yea, a joyful and pleaſant thing it is to be thankful.</p>
+               <p n="2">
+                  <hi>2.</hi> The Lord doth build up Ieruſalem: and gather together the Outcaſts of Iſrael.</p>
+               <p n="3">
+                  <hi>3.</hi> He healeth thoſe that are broken in heart: and giveth medicine to heal their ſickneſs.</p>
+               <p n="4">
+                  <hi>4.</hi> He telleth the number of the ſtars: and calleth them all by their names.</p>
+               <p n="5">
+                  <hi>5.</hi> Treat is our Lord, and great is his power: yea, and his wiſdome is infinite.</p>
+               <p n="6">
+                  <hi>6.</hi> The Lord ſetteth up the meek: and bringeth the ungodly down to the ground.</p>
+               <p n="7">
+                  <hi>7.</hi> O ſing unto the Lord with thankſgiving: ſing praiſes upon the harp unto our God.</p>
+               <p n="8">
+                  <hi>8.</hi> Who covereth the heaven with clouds, and prepareth rain for the earth: and maketh the graſs to grow upon the mountains, and hearb for the uſe of men.</p>
+               <p n="9">
+                  <hi>9.</hi> Who giveth fodder unto the cattle: and feedeth the young ravens that call upon him.</p>
+               <p n="10">
+                  <hi>10.</hi> He hath no pleaſure in the ſtrength of an horſe: neither delighteth he in any mans legs.</p>
+               <p n="11">
+                  <hi>11.</hi> But the Lords delight is in them that fear him: and put their truſt in his mercy.</p>
+               <p n="12">
+                  <hi>12.</hi> Praiſe the Lord, O Ieruſalem: praiſe thy God, O Sion.</p>
+               <p n="13">
+                  <hi>13.</hi> For he hath made faſt the bars of thy gates: and hath bleſſed thy children within thee.</p>
+               <p n="14">
+                  <hi>14.</hi> He maketh peace in thy borders: and filleth thee with the flour of wheat.</p>
+               <p n="15">
+                  <hi>15.</hi> He ſendeth forth his commandment upon earth: and his word runneth very ſwiftly.</p>
+               <p n="16">
+                  <hi>16.</hi> He giveth ſnow like wool: and ſcattereth the hoar froſt like aſhes.</p>
+               <p n="17">
+                  <hi>17.</hi> He caſteth forth his Ice like morſels: who is able to abide his froſt?</p>
+               <p n="18">
+                  <hi>18.</hi> He ſendeth out his word and melteth them: he bloweth with his wind, and the waters flow.</p>
+               <p n="19">
+                  <hi>19.</hi> He ſheweth his word unto Iacob: his ſtatutes and ordi<g ref="char:EOLhyphen"/>nances unto Iſrael.</p>
+               <p n="20">
+                  <hi>20.</hi> He hath not dealt ſo with any nation: neither have the heathen knowledge of his laws.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:175571:3"/>
+               <head>After the PSALMS the Junior Cannon upon the place cometh out of his Stall with the Verger before him, and readeth the LESSON at the Desk, which is taken out of The 44<hi rend="sup">th</hi> Chap. of <hi>Eccleſiaſticus.</hi>
+               </head>
+               <p n="1">
+                  <hi>1.</hi>
+                  <seg rend="decorInit">L</seg>Et us now praiſe famous men, and our fa<g ref="char:EOLhyphen"/>thers that begat us.</p>
+               <p n="2">
+                  <hi>2.</hi> The Lord hath wrought great glory by them, through his great power from the be<g ref="char:EOLhyphen"/>ginning,</p>
+               <p n="3">
+                  <hi>3.</hi> Such as did bear rule in their King<g ref="char:EOLhyphen"/>domes, men renowned for their power, giving counſel by their underſtanding, and declaring prophecies:</p>
+               <p n="4">
+                  <hi>4.</hi> Leaders of the people by their counſels, and by their know<g ref="char:EOLhyphen"/>ledge of learning meet for the people, wiſe and eloquent in their inſtructions,</p>
+               <p n="5">
+                  <hi>5.</hi> Such as found out muſical tunes, and recited verſes in writing:</p>
+               <p n="6">
+                  <hi>6.</hi> Rich men furniſhed with ability, living peaceably in their habitations.</p>
+               <p n="7">
+                  <hi>7.</hi> All theſe were honoured in their generations, and were the glory of their times.</p>
+               <p n="8">
+                  <hi>8.</hi> There be of them that have left a name behind them, that their praiſes might be reported.</p>
+               <p n="9">
+                  <hi>9.</hi> And ſome there be which have no memorial, who are pe<g ref="char:EOLhyphen"/>riſhed as though they had never been, and are become as though they had never been born, and their children after them.</p>
+               <p n="10">
+                  <hi>10.</hi> But theſe were merciful men, whoſe righteouſneſs hath not been forgotten.</p>
+               <p n="11">
+                  <hi>11.</hi> With their ſeed ſhall continually remain a good inheritance; and their children are within the covenant.</p>
+               <p n="12">
+                  <hi>12.</hi> Their ſeed ſtands faſt, and their children for their ſakes.</p>
+               <p n="13">
+                  <hi>13.</hi> Their ſeed ſhall remain for ever, and their glory ſhall not be blotted out.</p>
+               <p n="14">
+                  <hi>14.</hi> Their bodies are buried in peace, but their name liveth for evermore.</p>
+               <p n="15">
+                  <hi>15.</hi> The people will tell of their wiſdom, and the congre<g ref="char:EOLhyphen"/>gations will ſhew forth their praiſe.</p>
+               <p n="16">
+                  <hi>16.</hi> Enoch pleaſed the Lord, and was tranſlated, being an example of repentance to all generations.</p>
+               <p n="17">
+                  <hi>17.</hi> Noah was found perfect and righteous in the time of wrath, he was taken in exchange (for the world) therefore was he left as a remnant unto the earth when the flood came.</p>
+               <p n="18">
+                  <hi>18.</hi> An everlaſting covenant was made with him, that all fleſh ſhould periſh no more by the flood.</p>
+               <pb n="5" facs="tcp:175571:3"/>
+               <p n="19">
+                  <hi>19.</hi> Abraham was a great father of many people, in glory was there none like unto him:</p>
+               <p n="20">
+                  <hi>20.</hi> Who kept the Law of the moſt High, and was in covenant with him, he eſtabliſhed the covenant in his fleſh, and when he was proved, he was found faithful.</p>
+               <p n="21">
+                  <hi>21.</hi> Therefore he aſſured him by an oath, that he would bleſs the Nations in his ſeed, and that he would multiply him as the duſt of the earth, and exalt his ſeed as the ſtars, and cauſe them to inherit from ſea to ſea, and from the river unto the utmoſt part of the land.</p>
+               <p n="22">
+                  <hi>22.</hi> With Iſaac did he eſtabliſh likewiſe [for Abraham his fathers ſake] the bleſſing of all men and the covenant.</p>
+               <p n="23">
+                  <hi>23.</hi> And made it reſt upon the head of Iacob, He acknowledged him in his bleſſing, and gave him an heritage, and divided his portions, among the twelve tribes did he part them.</p>
+            </div>
+            <div type="part">
+               <p>After the LESSON, <hi>Te Deum Laudamus</hi> is Sung.</p>
+               <p>After the <hi>Te Deum</hi> is ended, they all depart out of the Quire into the Body of the Church to Sermon.</p>
+               <p>After Sermon is ended, the Canons go up to the Altar, and the Quire go to their Stalls, and the Communion Service beginneth.</p>
+               <p>But if this ſhall happen to fall upon <hi>EASTER-day,</hi> they begin the <hi>Pſalms</hi> with the <hi>Venite,</hi> and continue the Service for OBIIT Sunday as before, till they come from the Sermon; And then the Canons do not go immediately up to the Altar, but to their Stalls, and they begin the Service for <hi>EASTER-DAY</hi> with the <hi>Anthem.</hi>
+               </p>
+               <p>
+                  <hi>Chriſt our Paſſeover is ſacrificed for us.</hi>
+               </p>
+               <p>And then the proper <hi>Pſalms</hi> for the Day.</p>
+               <p>After which, they Read the Second LESSON for <hi>EASTER-DAY,</hi> and then Sing the <hi>BENEDICT<g ref="char:V">Ʋ</g>S,</hi> and ſo go on with the SERVICE as at uſual times; which otherwiſe is omitted upon the <hi>OBIIT</hi> Days.</p>
+               <p>But at the Second SERVICE they Read the EPISTLE and GOSPEL for <hi>OBIIT S<g ref="char:V">Ʋ</g>NDAY.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:175571:4"/>
+               <head>The EPISTLE is taken out of the 33<hi rend="sup">th</hi> Chapter of <hi>Deuteronomy.</hi>
+               </head>
+               <p n="1">
+                  <hi>1.</hi>
+                  <seg rend="decorInit">A</seg>Nd this <hi>is</hi> the bleſſing wherewith Moſes the man of God bleſſed the children of Iſrael before his death.</p>
+               <p n="2">
+                  <hi>2.</hi> And he ſaid, The LORD came from Sinai, and roſe up from Seir unto them; he ſhined forth from mount Paran, and he came with ten thouſands of ſaints, from his right hand <hi>went</hi> a fiery law for them.</p>
+               <p n="3">
+                  <hi>3.</hi> Yea, he loved the people; all his ſaints <hi>are</hi> in thy hand: and they ſat down at thy feet; <hi>every one</hi> ſhall receive of thy words.</p>
+               <p n="4">
+                  <hi>4</hi> Moſes commanded us a law, <hi>even</hi> the inheritance of the congregation of Iacob.</p>
+               <p n="5">
+                  <hi>5.</hi> And he was King in Ieſurum, when the heads of the people <hi>and</hi> the tribes of Iſrael were gathered together.</p>
+               <p n="6">
+                  <hi>6</hi> ¶ Let Reuben live, and not dye; and let <hi>not</hi> his men be few.</p>
+               <p n="7">
+                  <hi>7.</hi> ¶ And this <hi>is the bleſſing</hi> of Iudah: and he ſaid, Near, O LORD, the voice of Iudah, and bring him unto his people: let his hands be ſufficient for him, and be thou an help to him from his enemies.</p>
+               <p n="8">
+                  <hi>8.</hi> ¶ And of Levi he ſaid, <hi>Let</hi> thy Thummim and thy Vrim <hi>be</hi> with thy holy one, whom thou didſt prove at Maſſah, <hi>and with</hi> whom thou didſt ſtrive at the waters of Meribah;</p>
+               <p n="9">
+                  <hi>9.</hi> Who ſaid unto his father and to his mother, I have not ſeen him, neither did he acknowledge his brethren, nor knew his own children: for they have obſerved thy word, and kept thy covenant.</p>
+               <p n="10">
+                  <hi>10.</hi> They ſhall teach Iacob thy judgments, and Iſrael thy law: they ſhall put incenſe before thee, and whole burnt ſacrifice upon thine altar.</p>
+               <p n="11">
+                  <hi>11.</hi> Bleſs, LORD, his ſubſtance, and accept the work of his hands: ſmite through the loins of them that riſe againſt him, and of them that hate him, that they riſe not again.</p>
+               <p n="12">
+                  <hi>12.</hi> ¶ <hi>And</hi> of Benjamin he ſaid, The beloved of the LORD ſhall dwell in ſafety by him; <hi>and the LORD</hi> ſhall cover him all the day long, and he ſhall dwell between his ſhoulders.</p>
+               <p n="13">
+                  <hi>13.</hi> ¶ And of Ioſeph he ſaid, Bleſſed of the LORD <hi>be</hi> his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,</p>
+               <p n="14">
+                  <hi>14.</hi> And for the precious fruits <hi>brought forth</hi> by the ſun, and for the precious things put forth by the moon,</p>
+               <p n="15">
+                  <hi>15.</hi> And for the chief things of the ancient mountains, and for the precious things of the laſting hills,</p>
+               <pb n="7" facs="tcp:175571:4"/>
+               <p n="16">
+                  <hi>16.</hi> And for the precious things of the earth, and fulneſs thereof, and for the good will of him that dwelt in the buſh: let <hi>the bleſſing</hi> come upon the head of Ioſeph, and upon the top of the head of him that was ſeparated from his brethren.</p>
+               <p n="17">
+                  <hi>17.</hi> His glory <hi>is like</hi> the firſtling of his bullock, and his horns <hi>are like</hi> the horns of unicorns: with them he ſhall puſh the people together, to the ends of the earth: and they <hi>are</hi> the ten thouſands of Ephraim, and they <hi>are</hi> the thouſands of Manaſſeh.</p>
+               <p n="18">
+                  <hi>18.</hi> ¶ And of Zebulun he ſaid, Rejoyce, Zebulun, in thy going out; and Iſſachar in thy tents.</p>
+               <p n="19">
+                  <hi>19.</hi> They ſhall call the people unto the mountain, there they ſhall offer ſacrifices of righteouſneſs; for they ſhall ſuck of the abundance of the ſeas, and of treaſures hid in the ſand.</p>
+               <p n="20">
+                  <hi>20.</hi> ¶ And of Gad he ſaid, Bleſſed <hi>be</hi> he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.</p>
+               <p n="21">
+                  <hi>21.</hi> And he provided the firſt part for himſelf, becauſe there, <hi>in</hi> a portion of the law-giver <hi>was he</hi> ſeated; and he came <hi>with</hi> the heads of the people, he executed the juſtice of the LORD, and his judgments with Iſrael.</p>
+               <p n="22">
+                  <hi>22.</hi> ¶ And of Dan he ſaid, Dan <hi>is</hi> a lions whelp: he ſhall leap from Baſhan.</p>
+               <p n="23">
+                  <hi>23.</hi> ¶ And of Naphtali he ſaid, O Naphtali, ſatisfied with favour, and full with the bleſſing of the LORD: poſſeſs thou the weſt and the ſouth.</p>
+               <p n="24">
+                  <hi>24.</hi> ¶ And of Aſher he ſaid, <hi>Let</hi> Aſher <hi>be</hi> bleſſed with children; let him be acceptable to his brethren, and let him dip his foot in oyl.</p>
+               <p n="25">
+                  <hi>25.</hi> Thy ſhoes <hi>ſhall be</hi> iron and braſs, and as thy days, <hi>ſo ſhall</hi> thy ſtrength <hi>be.</hi>
+               </p>
+               <p n="26">
+                  <hi>26.</hi> ¶ <hi>There is</hi> none like unto the God of Ieſurun, <hi>who</hi> rideth upon the heaven in thy help, and in his excellency on the skie.</p>
+               <p n="27">
+                  <hi>27.</hi> The eternal God <hi>is thy</hi> refuge, and underneath <hi>are</hi> the everlaſting arms: and he ſhall thruſt out the enemy from before thee, and ſhall ſay, Deſtroy <hi>them.</hi>
+               </p>
+               <p n="28">
+                  <hi>28.</hi> Iſrael then ſhall dwell in ſafety alone, the fountain of Iacob <hi>ſhall be</hi> upon a land of corn and wine, alſo his heavens ſhall drop down dew.</p>
+               <p n="29">
+                  <hi>29.</hi> Happy <hi>art</hi> thou, O Iſrael: who is like unto thee, O people ſaved by the Lord, the ſhield of thy help, and who <hi>is</hi> the ſword of thy excellency! and thine enemies ſhall be found liars unto thee, and thou ſhalt tread upon their high places.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:175571:5"/>
+               <head>THe GOSPEL is the 5<hi rend="sup">th</hi> Chapter of St. <hi>John</hi>'s <hi>Goſpel,</hi> beginning at the 24<hi rend="sup">th</hi> Verſe, and ending at the 30<hi rend="sup">th</hi>.</head>
+               <p n="24">
+                  <hi>24.</hi>
+                  <seg rend="decorInit">V</seg>Erily, verily I ſay unto you, He that heareth my word, and believeth ou him that ſent me, hath everlaſting life, and ſhall not come into condemnation: but is paſſed from death unto life.</p>
+               <p n="25">
+                  <hi>25.</hi> Verily, verily I ſay unto you, The hour is coming, and now is, when the dead ſhall hear the voice of the Son of God: and they that hear, ſhall live.</p>
+               <p n="26">
+                  <hi>26.</hi> For as the Father hath life in himſelf: ſo hath he given to the Son to have life in himſelf:</p>
+               <p n="27">
+                  <hi>27.</hi> And hath given him authority to execute judgment alſo, becauſe he is the Son of man.</p>
+               <p n="28">
+                  <hi>28.</hi> Marvel not at this: for the hour is coming, in the which all that are in the graves, ſhall hear his voice,</p>
+               <p n="29">
+                  <hi>29.</hi> And ſhall come forth, they that have done good, unto the reſurrection of life, and they that have done evil unto the reſurrection of damnation.</p>
+            </div>
+            <div type="part">
+               <p>After the CREED they which do not Receive the SACRAMENT depart.</p>
+               <p>After the SACRAMENT (which is always on <hi>Obiit Sunday</hi>) is ended, and the Bleſſing given at the Altar, the Canons go to their Stalls, and theſe following PRAYERS are Read.</p>
+               <sp>
+                  <speaker>Prieſt.</speaker>
+                  <p>O Lord ſave our King.</p>
+               </sp>
+               <sp>
+                  <speaker>Quire.</speaker>
+                  <p>And mercifully hear us when we call upon thee.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:175571:5"/>
+               <p>
+                  <seg rend="decorInit">O</seg> Lord our heavenly Father and merciful Sa<g ref="char:EOLhyphen"/>viour Ieſus Chriſt, aſſiſt our moſt worthy King continually with thy holy Spirit, that as he is anciently and truly deſcended from the noble Princes of this Realm, and the bountiful Pa<g ref="char:EOLhyphen"/>trons and Founders of this Noble Order and Church, ſo he may proceed in all good works; namely, for ſuſtentation of Learning, &amp; help of Poverty; and that all Noble Men of this Realm (eſpecially ſuch as be Companions of this moſt Honourable Order of the Garter,) may likewiſe diſpoſe themſelves, in Honour and Virtue at all times, that God thereby may be the better honoured, the Common-wealth ſerved, and their Fame remain to their Poſte<g ref="char:EOLhyphen"/>rity, and that we all may continue in the true Faith, and walk in good works that God hath appointed us, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">W</seg>E praiſe and thank thee, O Lord, in all the Noble Kings, Patrons and Founders of this Order, and our Benefactors, thy ſervants humbly beſeeching thy Majeſty, that as they for their time honourably and charitably did beſtow their gifts to our relief, ſo we may faithfully uſe them, to the end that thereby others may be moved with ſuch examples, to provide for good and learned Miniſters to teach thy holy Word, and to be mer<g ref="char:EOLhyphen"/>ciful in relieving the poor, through Ieſus Chriſt our Lord and Saviour. <hi>Amen.</hi>
+               </p>
+               <p>GOd ſave our Gracious Soveraign, and all the Companions of the moſt Honourable and Noble Order of the Garter. <hi>Amen.</hi>
+               </p>
+               <p>At the Offering up of the Atchievements of the Deceaſed KNIGHTS, theſe foregoing PRAYERS are Read at the Altar by the PRELATE of the <hi>GARTER.</hi>
+               </p>
+            </div>
+            <trailer>Here endeth the <hi>OBIIT</hi> SERVICE.</trailer>
+         </div>
+         <div type="prayer">
+            <pb n="10" facs="tcp:175571:6"/>
+            <head>Theſe following PRAYERS are Read daily at <hi>Morning</hi> and <hi>Evening Prayer,</hi> immediately before the Prayer of St. <hi>Chryſoſtom.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lmighty God, we beſeech thee to keep thy Servant <hi>CHARLES,</hi> our moſt Gracious King and Governour, and ſo rule His Heart in thy Faith, Fear, and Love, that evermore he may have affiance and truſt in thee, and ever ſeek thy honour and glory, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+            <p>GOd ſave our Gracious Soveraign, and all the Companions of the moſt Honourable and Noble Order of the Garter. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175571:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
